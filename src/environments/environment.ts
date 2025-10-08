@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'http://54.152.189.242:8080/api'
+  url: 'https://ec2-stage.yoniby.shop/api'
 };
 
 /*
