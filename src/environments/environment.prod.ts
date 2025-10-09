@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  url: 'https://ec2-stage.yoniby.shop/api'
+  url: 'https://ecs.yoniby.shop/api'
 };
